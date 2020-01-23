@@ -1,6 +1,6 @@
-# construint comunitats acollidores
-
-Recursos de la sessió *construint comunitats acollidores* del <!--- Nom de l'esdeveniment, meetup, curs, etc. --> de <!--- Nom de l'organitzador --> del <!--- data -->.
+# Models de Negoci i Projectes basats en codi obert
+Inspirat per https://github.com/coopdevs/construint-comunitats-acollidores
+Recursos de la sessió al *Master de sostenibilitat * del IED.
 
   * [Diapositives](slides.md)
   * [Diapositives en PDF]()
