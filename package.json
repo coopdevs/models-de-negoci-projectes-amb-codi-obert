@@ -1,0 +1,23 @@
+{
+  "name": "models-de-negoci-projectes-amb-codi-obert",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:coopdevs/models-de-negoci-projectes-amb-codi-obert.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coopdevs/models-de-negoci-projectes-amb-codi-obert"
+  },
+  "homepage": "https://github.com/coopdevs/models-de-negoci-projectes-amb-codi-obert",
+  "dependencies": {
+    "backslide": "^2.3.7",
+    "slides_template": "^1.0.0"
+  }
+}
