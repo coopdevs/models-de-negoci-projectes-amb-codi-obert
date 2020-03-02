@@ -47,7 +47,7 @@ background-image:  url(images/socialissues_logo.png)
 ---
 background-image: radial-gradient(rgba(58, 64, 122, 0.75), rgba(58, 64, 122, 0.85)), url(images/technology.jpg)
 
-## Tecnología & governanza
+## Tecnología & gobernanza
 
 
 .footer[Photo by Johannes Plenio on Unsplash]
@@ -67,7 +67,7 @@ background-image: radial-gradient(rgba(58, 64, 122, 0.75), rgba(58, 64, 122, 0.8
 
 ## Sistemas de control de versiones
 
-Desarollo de software de manera colaborativa
+Desarrollo de software de manera colaborativa
 
 ---
 background-image: radial-gradient(rgba(58, 64, 122, 0.75), rgba(58, 64, 122, 0.85)), url(images/social_coding.png)
@@ -77,8 +77,8 @@ background-image: radial-gradient(rgba(58, 64, 122, 0.75), rgba(58, 64, 122, 0.8
 Plataformas de desarrollo de software
 
 * Alojamiento del código
-* Revisión del codigo
-* Gestión del projecto
+* Revisión del código
+* Gestión del proyecto
 * *Social coding*
 * Licencia
 
@@ -93,7 +93,7 @@ La red social de las desarrolladoras de software :P
 ---
 background-image: radial-gradient(rgba(58, 64, 122, 0.75), rgba(58, 64, 122, 0.85)), url(images/simbiosi.jpg)
 
-## Simbiosi
+## Simbiosis
 
 Proyecto & Contribuidoras
 .footer[Photo by Larm Rmah on Unsplash]
@@ -101,7 +101,7 @@ Proyecto & Contribuidoras
 ---
 background-image: radial-gradient(rgba(58, 64, 122, 0.75), rgba(58, 64, 122, 0.85)), url(images/simbiosi.jpg)
 
-## Simbiosi 
+## Simbiosis 
 
 Proyecto con recursos humanos dinámicos
 
@@ -109,9 +109,9 @@ Proyecto con recursos humanos dinámicos
 ---
 background-image: radial-gradient(rgba(58, 64, 122, 0.75), rgba(58, 64, 122, 0.85)), url(images/simbiosi.jpg)
 
-## Simbiosi
+## Simbiosis
 
-El Contribuidor egoista
+El Contribuidor egoísta
 
 Ego & CV
 
@@ -174,7 +174,7 @@ background-image: radial-gradient(rgba(58, 64, 122, 0.75), rgba(58, 64, 122, 0.8
 
 ---
 
-## Organitzación
+## Organización
 
 Tareas más allà del software
 
@@ -196,9 +196,9 @@ background-image: radial-gradient(rgba(58, 64, 122, 0.75), rgba(58, 64, 122, 0.8
 
 ---
 
-##  Agil y en abierto
+##  Ágil y en abierto
 
-*Desarollo veloz*
+*Desarrollo veloz*
 
 # =
 
@@ -206,7 +206,7 @@ background-image: radial-gradient(rgba(58, 64, 122, 0.75), rgba(58, 64, 122, 0.8
 
 ---
 
-## Agil y en abierto
+## Ágil y en abierto
 
 *Animar, facilitar y acompañar asegurando que se cumplen los objetivos del proyecto*
 
@@ -222,7 +222,7 @@ background-image: radial-gradient(rgba(58, 64, 122, 0.75), rgba(58, 64, 122, 0.8
 
 Reduce el margen de error
 
-### Cosas simples, aburridas i repetitives
+### Cosas simples, aburridas y repetitivas
 
 ---
 
@@ -239,14 +239,14 @@ $ automatiza
 ## Documentación
 
 El proyecto debe seguir
-aunque tu tengas amnesia
+aunque tú tengas amnesia
 
 ---
 
 ## Documentación
 
 * No lo podemos recordar todo
-* Más facilmente alguien puede sumarse
+* Más fácilmente alguien puede sumarse
 
 ---
 
