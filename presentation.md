@@ -1,160 +1,172 @@
-theme: Fira, 3
+class: impact
 
-# Construint comunitats acollidores
+## Modelos de negocio 
+## Proyectos de código abierto
+
+---
+background-image: radial-gradient(rgba(58, 64, 122, 0.75), rgba(58, 64, 122, 0.85)), url(images/coop.png)
+
+# Coopdevs
+
+## Sergi Alonso [@sseerrggii](https://twitter.com/sseerrggii)
+
+
+* [coopdevs.org](http://coopdevs.org/)
+* [twitter.com/coopdevs](https://twitter.com/coopdevs)
+* [github.com/coopdevs](https://github.com/coopdevs)
+* [gitlab.com/coopdevs](https://gitlab.com/coopdevs)
+* [community.coopdevs.org](http://community.coopdevs.org/)
 
 ---
 
-## Coopdevs
-
-Sergi Alonso
-
-* a [Coopdevs](http://coopdevs.org/)
-
-![50% right](images/coopdevs_logo.jpg)
-
-[github.com/coopdevs](https://github.com/coopdevs)
-[community.coopdevs.org](http://community.coopdevs.org/)
+background-image: url(images/FOSDEM.jpeg)
 
 ---
-
-![](images/coopdevs.jpg)
-
-[.footer: Coopdevs]
-
----
+background-image: url(images/katuma.png)
 
 ## Katuma
 
-Sí home, els que fan allò de consum de proximitat
 
-![right](images/katuma.png)
+
+---
+background-image: url(images/TimeOverflow.png)
+
+## TimeOverflow
+
+
+---
+background-image: radial-gradient(rgba(58, 64, 122, 0.75), rgba(58, 64, 122, 0.85)), url(images/odoo.jpg)
+
+## ERP para entidades de la ESS
+## Procesos empresariales
+---
+background-image:  url(images/socialissues_logo.png)
+
+## Socialissues.tech
+
+---
+background-image: radial-gradient(rgba(58, 64, 122, 0.75), rgba(58, 64, 122, 0.85)), url(images/technology.jpg)
+
+## Tecnología & governanza
+
+
+.footer[Photo by Johannes Plenio on Unsplash]
+
+---
+## Cooperativismo de Plataforma
+
+.center[![](images/esquema_coopdevs.png)]
 
 ---
 
-# Ajudeu-nos al matchfunding!
-
-[goteo.org/project/katuma](goteo.org/project/katuma)
-
----
-
-## Tecnologia
-
-![](images/technology.jpg)
-
-[.footer: Photo by Johannes Plenio on Unsplash]
+## ¿No podemos competir? 
+# Intercooperamos en IT
 
 ---
+background-image: radial-gradient(rgba(58, 64, 122, 0.75), rgba(58, 64, 122, 0.85)), url(images/git.png)
 
-## Sistemes de control de versions
+## Sistemas de control de versiones
 
-Reusem i desenvolupem codi de manera col·laborativa
+Desarollo de software de manera colaborativa
 
 ---
+background-image: radial-gradient(rgba(58, 64, 122, 0.75), rgba(58, 64, 122, 0.85)), url(images/social_coding.png)
 
 ## GitHub & GitLab
 
-Plataformes de desenvolupament de software
+Plataformas de desarrollo de software
 
-* Allotjament de repositoris
-* Revisió del codi
-* Gestió del projecte
+* Alojamiento del código
+* Revisión del codigo
+* Gestión del projecto
 * *Social coding*
-* Llicència*
-
-![right](images/social_coding.jpg)
+* Licencia
 
 ---
 
 ## Social coding
 
-El treball en comunitat que es construeix sobre el software
+La red social de las desarrolladoras de software :P
 
 ![](images/github.png)
 
 ---
+background-image: radial-gradient(rgba(58, 64, 122, 0.75), rgba(58, 64, 122, 0.85)), url(images/simbiosi.jpg)
 
 ## Simbiosi
 
-![](images/simbiosi.jpg)
-
-[.footer: Photo by Larm Rmah on Unsplash]
-
----
-
-## Simbiosi
-
-Projecte & Contribuïdor
+Proyecto & Contribuidoras
+.footer[Photo by Larm Rmah on Unsplash]
 
 ---
+background-image: radial-gradient(rgba(58, 64, 122, 0.75), rgba(58, 64, 122, 0.85)), url(images/simbiosi.jpg)
 
 ## Simbiosi 
 
-Projecte amplia els seus recursos humans
+Proyecto con recursos humanos dinámicos
 
+.footer[Photo by Larm Rmah on Unsplash]
 ---
+background-image: radial-gradient(rgba(58, 64, 122, 0.75), rgba(58, 64, 122, 0.85)), url(images/simbiosi.jpg)
 
 ## Simbiosi
 
-Contribuïdor aprèn i/o fa CV
+El Contribuidor egoista
+
+Ego & CV
+
+---
+background-image: radial-gradient(rgba(58, 64, 122, 0.75), rgba(58, 64, 122, 0.85)), url(images/atomic_ant.jpg)
+
+## Humanos
+
+Proyectos desarrollados por humanos
+
+aunque solo veamos avatar i emoticonos
 
 ---
 
-## Humans
+### Humanos
 
-![](images/atomic_ant.jpg)
+Con sentimientos y estados de ánimo
 
----
-
-## Humans
-
-Els projectes els fan persones
+![](images/thanks.png)
 
 ---
 
-### Humans
+### Humanos
 
-Tenen sentiments i ànim
-
-![fit right](images/thanks.png)
+![](images/gracies.png)
 
 ---
 
-### Humans
+### Humanos
 
-Tenen sentiments i ànim
-
-![150% right](images/gracies.png)
-
----
-
-### Humans
-
-Dóna les gràcies
+Dar las gracias es importante
 
 ![fit right](images/knoopx.png)
 
 ---
 
-## Humans
+## Humanos
 
-Ens costa estructurar i
-comunicar idees abstractes
+Nos cuesta estructurar y comunicar ideas abstractas
+
+---
+background-image: radial-gradient(rgba(58, 64, 122, 0.75), rgba(58, 64, 122, 0.85)), url(images/agile.jpg)
+## Organización
+
+
+
+.footer[Photo by Patrick Perkins on Unsplash]
 
 ---
 
-## Organització
+## Organización
 
-![](images/agile.jpg)
+*issues* bien detallados y al día
 
-[.footer: Photo by Patrick Perkins on Unsplash]
-
----
-
-## Organització
-
-Mantenir llistat d'*issues* perfectament detallats
-
-![50% right](images/issues_list.png)
+![](images/issues_list.png)
 
 ---
 
@@ -162,102 +174,131 @@ Mantenir llistat d'*issues* perfectament detallats
 
 ---
 
-## Organització
+## Organitzación
 
-Hi ha tasques més enllà del software
+Tareas más allà del software
 
 ![50% right](images/trello.png)
 
 ---
 
-Software de gestió de projectes
+Software de gestión de proyectos
 
 ![fit](images/gestio.png)
 
 ---
+background-image: radial-gradient(rgba(58, 64, 122, 0.75), rgba(58, 64, 122, 0.85)), url(images/agil_obert.jpg)
 
-## Àgil i obert
+## Agil y en abierto
 
-![](images/agil_obert.jpg)
 
-[.footer: Photo by Erik Odiin on Unsplash]
-
----
-
-## Àgil i obert
-
-*Desenvolupament veloç i concurrent*
-=>
-Efectivitat i felicitat
+.footer[Photo by Erik Odiin on Unsplash]
 
 ---
 
-## Àgil i obert
+##  Agil y en abierto
 
-*Encoratjar, facilitar i acompanyar*
-=>
-Comunitats acollidores
+*Desarollo veloz*
 
----
+# =
 
-![fit](images/comunitat.png)
+** Efectividad y felicidad**
 
 ---
 
-## Processos
+## Agil y en abierto
 
-Fes les coses aburrides i repetitives
+*Animar, facilitar y acompañar asegurando que se cumplen los objetivos del proyecto*
+
+# =
+
+**Comunidades acogedoras**
+
+
 
 ---
 
-## Processos
+## Procesos
+
+Reduce el margen de error
+
+### Cosas simples, aburridas i repetitives
+
+---
+
+## Procesos
 
 ```shell
-$ automatitza
+$ automatiza
 ```
 
-[.footer: vigileu]
+.footer[Alert!]
 
 ---
 
-## Documentació
+## Documentación
 
-El projecte ha de seguir
-tot i que tu tinguis amnèsia
-
----
-
-## Documentació
-
-* No ho recordem tot
-* Més gent si ha de poder sumar
+El proyecto debe seguir
+aunque tu tengas amnesia
 
 ---
 
-No emmagatzemis res al teu cap
+## Documentación
+
+* No lo podemos recordar todo
+* Más facilmente alguien puede sumarse
+
+---
+
+No guardes nada en tu cabeza
 
 ![fit](images/documentacio.png)
 
 ---
 
-Fes la documentació executable
+haz documentación ejecutable
 
 ![](images/explosio.jpg)
 
 ---
+## Modelos de negocio, algunos ejemplos
 
-## Preguntes
+## [platform.coop](https://platform.coop/)
 
-![](images/carretera.jpg)
+-
 
-[.footer: Photo by Matthias Heil on Unsplash]
+-
+
+-
+
+## Y cercanos WIP...
 
 ---
+background-image: radial-gradient(rgba(58, 64, 122, 0.75), rgba(58, 64, 122, 0.85)), url(images/fairbnb.png)
 
-Materials de la sessió a
-
-[https://github.com/coopdevs/construint-comunitats-acollidores](https://github.com/coopdevs/construint-comunitats-acollidores)
+##[Fairbnb.coop](https://www.fairbnb.coop/)
 
 ---
+background-image: radial-gradient(rgba(58, 64, 122, 0.75), rgba(58, 64, 122, 0.85)), url(images/mensakas.png)
 
-## Gràcies
+## [Mensakas.com](https://www.mensakas.com/)
+
+---
+background-image: radial-gradient(rgba(58, 64, 122, 0.75), rgba(58, 64, 122, 0.85)), url(images/foodcoop.png)
+
+## [foodcoopbcn.cat](https://foodcoopbcn.cat/)
+
+---
+background-image: url(images/carretera.jpg)
+
+## Preguntas?
+.footer[Photo by Matthias Heil on Unsplash]
+
+---
+background-image: radial-gradient(rgba(58, 64, 122, 0.75), rgba(58, 64, 122, 0.85)), url(images/coopdevs_logo.jpg)
+# Gràcies
+
+Slides disponibles en
+
+[https://github.com/coopdevs/models-de-negoci-projectes-amb-codi-obert](https://github.com/coopdevs/models-de-negoci-projectes-amb-codi-obert)
+
