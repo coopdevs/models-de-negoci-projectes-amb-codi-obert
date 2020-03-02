@@ -1,5 +1,4 @@
 # Models de Negoci i Projectes basats en codi obert
-Inspirat per https://github.com/coopdevs/construint-comunitats-acollidores
 Recursos de la sessió al *Master de sostenibilitat* del IED.
 
   * [Diapositives](presentation.md)
