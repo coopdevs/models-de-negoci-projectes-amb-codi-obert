@@ -6,7 +6,7 @@ theme: Fira, 3
 
 ## Coopdevs
 
-Pau Pérez
+Sergi Alonso
 
 * a [Coopdevs](http://coopdevs.org/)
 
